@@ -29,6 +29,4 @@ La tabla normalizada (1FN, 2FN, 3FN) se encuentra en Google Sheets:
 
 ## Diagrama de patas de gallo (UML)
 
-![Diagrama de patas de gallo](assets/Diagrama-UML-Patas-de-gallo.png)
-
-
+![Diagrama de patas de gallo](assets/diagrama-UML-Patasdegallo-.png)
