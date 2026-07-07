@@ -7,9 +7,9 @@ Este ejercicio consiste en normalizar una base de datos que relaciona alumnos, a
 
 Tras aplicar las reglas de normalización (1FN, 2FN y 3FN), la base de datos quedó dividida en tres tablas:
 
-- **students**: `id_student` (PK), `name_student`, `classroom` (FK)
+- **students**: `id_student` (PK), `first_name`, `last_name`
 - **classrooms**: `classroom` (PK), `classroom_description`
-- **classroom_courses**: `classroom` (FK), `course`
+- **classroom_courses**: `course`
 
 ## Tabla original sin normalizar
 
